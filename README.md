@@ -1,2 +1,10 @@
-# SimplePortfolio
-A Simple React Portfolio
+### How To Use
+
+- Clone this repo
+- run `yarn`
+- `yarn dev`
+
+
+
+
+
